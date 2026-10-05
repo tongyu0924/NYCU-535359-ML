@@ -1,0 +1,3 @@
+Anomaly type,Precision,Recall,F1,Number predicted noise,Injected anomalies detected
+Global,0.26666666666666666,1.0,0.42105263157894735,75,20
+Correlation-breaking,0.06779661016949153,0.2,0.10126582278481013,59,4

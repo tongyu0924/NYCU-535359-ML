@@ -1,0 +1,5 @@
+Detector,Overlap with DBSCAN noise,m
+kNN distance,46,55
+LOF20,24,55
+Clustering-based,33,55
+Isolation Forest,30,55
